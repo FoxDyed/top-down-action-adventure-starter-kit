@@ -1,4 +1,4 @@
-[gd_resource type="ArrayMesh" load_steps=3 format=4 uid="uid://ccjtf8pu3j80m"]
+[gd_resource type="ArrayMesh" format=4 uid="uid://ccjtf8pu3j80m"]
 
 [ext_resource type="Material" uid="uid://dy20h6wfa46iv" path="res://assets/background_objects.material" id="1_o7xsv"]
 

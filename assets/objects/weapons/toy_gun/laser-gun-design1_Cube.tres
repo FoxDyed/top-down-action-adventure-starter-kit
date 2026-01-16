@@ -1,4 +1,4 @@
-[gd_resource type="ArrayMesh" load_steps=4 format=4 uid="uid://3xje3o37tqww"]
+[gd_resource type="ArrayMesh" format=4 uid="uid://3xje3o37tqww"]
 
 [ext_resource type="Texture2D" uid="uid://dlkn3vpjeewid" path="res://assets/objects/weapons/toy_gun/laser-gun-design1_prototypebits_texture - Copy.png" id="1_cncyi"]
 

@@ -1,4 +1,4 @@
-[gd_resource type="Environment" load_steps=3 format=3 uid="uid://dtrxire26wyng"]
+[gd_resource type="Environment" format=3 uid="uid://dtrxire26wyng"]
 
 [sub_resource type="ProceduralSkyMaterial" id="ProceduralSkyMaterial_gtpib"]
 sky_top_color = Color(0.266278, 0.480075, 0.700952, 1)
@@ -38,8 +38,6 @@ glow_levels/2 = 8.41
 glow_levels/3 = 4.53
 glow_levels/4 = 2.17
 glow_levels/5 = 0.54
-glow_intensity = 1.36
-glow_strength = 1.5
-glow_bloom = 0.02
+glow_bloom = 0.03
 adjustment_enabled = true
 adjustment_saturation = 1.2

@@ -1,0 +1,11 @@
+# Binary files intentionally not copied into this bundle
+
+Copy these from the source project if you need matching controller/interact icons:
+
+ui/icons/xbox_button_color_b.png
+ui/icons/xbox_button_color_x.png
+ui/icons/xbox_button_start_icon.png
+ui/icons/xbox_rt.png
+ui/icons/xbox_stick_l.png
+ui/icons/xbox_stick_r.png
+assets/objects/weapons/toy_gun/Arrow.material
